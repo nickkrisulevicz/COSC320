@@ -1,0 +1,19 @@
+Nick Krisulevicz
+COSC 320
+05/13/2022
+Machine Learning Project
+Random Forest
+
+README
+
+Basic explanation of the program:
+
+It is a python script that makes use of imports from libraries NumPy, SciKit, MatPlotLib, and Pandas. The code creates a random forest class as well as structures for each subtree and the majority deciding factor for the tree outcome process. The code takes a data set from the SciKit library and checks to see if patients have breast cancer. The libraries are necessary for the code to run. In order to run the program, the current working directory needs to be 
+
+~/MLfromscratch-master 
+
+and the following command needs to be input:
+
+python3 -m mlfromscratch.random_forest 
+
+If the program cannot be run, try pip installing the libraries
